@@ -1,3 +1,4 @@
+# -*- coding: iso-8859-15 -*-
 import sublime
 import sublime_plugin
 
@@ -30,7 +31,7 @@ class DogecoinTicker(sublime_plugin.EventListener):
 
     #btc_in_usd = float(resp['results'])
     
-    return (price, '1 Ð')
+    return (price, '1 DOGE')
 
 
   def on_load(self, view):
