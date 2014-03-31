@@ -1,0 +1,6 @@
+{
+	"url": "https://github.com/ramayac/DogecoinTicker", 
+	"version": "2014.03.31.10.26.00", 
+	"description": 
+		"Sublime Text 2 and 3 plugin that displays current Dogecoin exchange rate in status and converts arbitrary DOGE values to USD"
+}
